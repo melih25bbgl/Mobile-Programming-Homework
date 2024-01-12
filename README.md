@@ -1,5 +1,6 @@
 # About
 This repository contains the screen designs and codes I made in my mobile programming homework.
+Login and registration can be done by adding the database
 
 ## Login Page
 
